@@ -1,0 +1,22 @@
+{
+  "name": "mongonode",
+  "version": "1.0.0",
+  "description": "connect,insert,query,update and remove in mongodb using nodejs",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritamparker/mongoNode.git"
+  },
+  "author": "Pritam Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritamparker/mongoNode/issues"
+  },
+  "homepage": "https://github.com/pritamparker/mongoNode#readme",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
